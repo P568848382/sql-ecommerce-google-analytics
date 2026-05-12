@@ -14,7 +14,7 @@ conversion rates, cart abandonment patterns, and monthly revenue trends.
 |---|---|
 | Source | BigQuery Public Data — data-to-insights |
 | Table | ecommerce.all_sessions |
-| Size | ~170,000 session rows |
+| Size | ~2,00,00,000 total rows |
 | Period | August 2016 — August 2017 |
 | Access | Free — 1TB/month query limit on BigQuery free tier |
 
