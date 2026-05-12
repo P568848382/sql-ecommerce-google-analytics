@@ -1,0 +1,16 @@
+city	              country	        total_revenue	  unique_session	total_transactions	rank_in_country	pct_of_country_revenue
+New York	        (not set)	            3281.52          	1	                24              	1	                3281.52
+Buenos Aires	    Argentina	            13271.15	        3	                183	              1	                13271.15
+Melbourne	        Australia	            260522.21	        6	                790	              1	                516552.31
+Sydney	Australia	209681.42	12	1457	2	516552.31
+New York	Australia	20494.88	1	232	3	516552.31
+Palo Alto	Australia	19600.0	1	50	4	516552.31
+Mountain View	Australia	6253.8	2	55	5	516552.31
+Sao Paulo	Brazil	173288.1	17	1095	1	206275.38
+Belo Horizonte	Brazil	31584.0	1	32	2	206275.38
+Rio de Janeiro	Brazil	1403.28	1	36	3	206275.38
+Toronto	Canada	4507221.2	208	12389	1	5472366.6
+New York	Canada	305421.58	6	853	2	5472366.6
+Calgary	Canada	209222.7	2	273	3	5472366.6
+Kitchener	Canada	205689.28	37	764	4	5472366.6
+Montreal	Canada	90105.39	19	877	5	5472366.6
