@@ -116,6 +116,6 @@ conversion rates, cart abandonment patterns, and monthly revenue trends.
 | Olist Brazilian E-commerce | Multi-table JOINs, PostgreSQL,Python,Tableau · Machine Learning() | https://github.com/P568848382/olist-ecommerce-intelligence |
 | Dairy Sales & Finance Analysis | Python 3.11 — Pandas, NumPy,PostgreSQL 15 — Star Schema,Tabular Model — DAX,Tableau Desktop / Tableau Public,All operational funnels, Tableau dashboards | https://github.com/P568848382/msrb_dairy_analytics |
 |Superstore Analysis project|Python, SQL, and Tableau | https://github.com/P568848382/superstore-analytics-project |
-| Customer Churn Analysis | Cohort analysis, CTEs | Coming soon |
-| Employee Performance Dashboard | Window functions, HR analytics | Coming soon |
+| Customer Churn Analysis | Cohort analysis, CTEs | https://github.com/P568848382/sql-customer-churn-analysis |
+| Employee Performance Dashboard | Window functions, HR analytics | https://github.com/P568848382/sql-employee-performance-dashboard |
 | Fraud Detection | Rule engine, CTEs, self-joins | Coming soon |
